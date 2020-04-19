@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "265526734945",
+    "firebase_url": "https://atpeace-946c7.firebaseio.com",
+    "project_id": "atpeace-946c7",
+    "storage_bucket": "atpeace-946c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265526734945:android:2ff7a0f4461351293a7a20",
+        "android_client_info": {
+          "package_name": "raghav.developer.geofire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265526734945-5pva6flbdk7ihomjvujapdd2g4aqciis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0WKwSKmvDunREUIb9wgcreAqlPaToJGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265526734945-5pva6flbdk7ihomjvujapdd2g4aqciis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
